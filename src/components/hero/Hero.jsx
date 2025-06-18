@@ -15,8 +15,8 @@ import "swiper/css/pagination";
 import "./slider.css";
 import IconSection from "./IconSection";
 const mySlider = [
-  { text: "MEN", link: "public/images/banner-15.jpg" },
-  { text: "WOMEN", link: "public/images/untitled-1.png" }
+  { text: "MEN", link: "images/banner-15.jpg" },
+  { text: "WOMEN", link: "images/untitled-1.png" }
 ];
 const Hero = () => {
   const theme = useTheme();
@@ -122,7 +122,7 @@ const Hero = () => {
 
         <Box sx={{ display: { xs: "none", md: "block", minWidth: "26.6%" } }}>
           <Box sx={{ position: "relative" }}>
-            <img src="public\images\banner-17.jpg" alt="" width={"100%"} />
+            <img src="images\banner-17.jpg" alt="" width={"100%"} />
             <Stack
               sx={{
                 position: "absolute",
@@ -180,7 +180,7 @@ const Hero = () => {
             </Stack>
           </Box>
           <Box sx={{ position: "relative" }}>
-            <img src="public\images\banner-16.jpg" alt=""  width={"100%"} />
+            <img src="images\banner-16.jpg" alt=""  width={"100%"} />
             <Stack
               sx={{
                 position: "absolute",
