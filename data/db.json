@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Jacket",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "1/final.png",
+        "1/images.jpg"
+      ],
+      "category": "men",
+      "price": 200,
+      "rate": 3.5
+    },
+    {
+      "id": 2,
+      "title": "Glass",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "2/2.jpg",
+        "2/3.jpg",
+        "2/final.jpg"
+      ],
+      "category": "women",
+      "price": 250,
+      "rate": 3
+    },
+    {
+      "id": 3,
+      "title": "Bag",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "3/final.jpg",
+        "3/1.jpg",
+        "3/2.jpg",
+        "3/4.jpg"
+      ],
+      "category": "women",
+      "price": 150,
+      "rate": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Watch",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "4/final.jpg",
+        "4/3.jpg",
+        "4/4.jpg"
+      ],
+      "category": "men",
+      "price": 200,
+      "rate": 3.5
+    },
+    {
+      "id": 5,
+      "title": "T-Shirt",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "5/1 (5).jpg",
+        "5/1 (6).jpg",
+        "5/100.jpg"
+      ],
+      "category": "men",
+      "price": 200,
+      "rate": 3.5
+    },
+    {
+      "id": 6,
+      "title": "Ring",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, ut?",
+      "images": [
+        "6/1.jpg",
+        "6/2.jpg"
+      ],
+      "category": "women",
+      "price": 200,
+      "rate": 3.5
+    }
+  ]
+}
