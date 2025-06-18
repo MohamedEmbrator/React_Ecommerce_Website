@@ -19,7 +19,7 @@ const ProductDetails = ({ clickedProduct }) => {
         <img
           width={360}
           src={
-            `public/images/${clickedProduct.images[selectedImg]}`
+            `images/${clickedProduct.images[selectedImg]}`
           }
           alt=""
         />
@@ -74,7 +74,7 @@ const ProductDetails = ({ clickedProduct }) => {
                     style={{ borderRadius: 3 }}
                     height={"100%"}
                     width={"100%"}
-                    src={`public/images/${item}`}
+                    src={`images/${item}`}
                     alt=""
                   />
                 </ToggleButton>
