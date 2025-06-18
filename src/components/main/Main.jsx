@@ -159,7 +159,7 @@ const Main = () => {
                 >
                   <CardMedia
                     sx={{ height: 277 }}
-                    image={`public/images/${product.images[0]}`}
+                    image={`images/${product.images[0]}`}
                     title="Green Image"
                   />
                   <CardContent>
